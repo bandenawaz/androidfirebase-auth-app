@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217286257383",
+    "project_id": "androidfirebaseauthapp-ec40d",
+    "storage_bucket": "androidfirebaseauthapp-ec40d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217286257383:android:faf6d03fbba07c39ef9042",
+        "android_client_info": {
+          "package_name": "com.sveri.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217286257383-gokm1jlkkrac9dmcikrneavn600gbr3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2lJZH4yclnzMRFS2bR9CCbCslgY77ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217286257383-gokm1jlkkrac9dmcikrneavn600gbr3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
